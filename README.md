@@ -49,11 +49,11 @@ Github stats:
 
 #### 📝 ORGANIZATIONS
 
-Leader of AllayMC:
+Founder of AllayMC:
 
 <code><a href="https://github.com/AllayMC"><img height="20" src="https://avatars.githubusercontent.com/u/127004695" alt="AllayMC" /></a>&nbsp;<a href="https://github.com/AllayMC">AllayMC</a></code>
 
-Owner of PowerNukkitX (unactive):
+Co-founder of PowerNukkitX:
 
 <code><a href="https://github.com/PowerNukkitX"><img height="20" src="https://avatars.githubusercontent.com/u/99014792" alt="PowerNukkitX" /></a>&nbsp;<a href="https://github.com/PowerNukkitX">PowerNukkitX</a></code>
 
