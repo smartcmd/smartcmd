@@ -1,6 +1,6 @@
 # Hi there, I'm daoge 👋
 
-🌱 A senior high scholl student
+🌱 A senior high school student
 
 ❤️ I like coding, and doing minecraft related things! <code><img height="20" src="assets/img/minecraft.net.ico" alt="mc" /></code>
 
