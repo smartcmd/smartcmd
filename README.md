@@ -8,7 +8,7 @@
 
 🌴 I love summer!
 
-⭐ [My Personality Type](https://www.16personalities.com/profiles/infp-t/x/4m3xws05f): INFP-T
+⭐ [My Personality Type](https://www.16personalities.com/profiles/infp-t/m/9kv4unlvx): INFP-T
 
 #### 💬 CONTACT
 
