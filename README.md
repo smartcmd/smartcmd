@@ -61,15 +61,9 @@ Co-founder of PowerNukkitX:
 
 #### AllayMC/Allay
 
-The next-generation minecraft: bedrock edition server software
+The next-generation Minecraft: Bedrock Edition server software
 
-Will be open-sourced soon
-
-Github: https://github.com/AllayMC
-
-See our latest progress on discord!
-
-Discord: https://discord.gg/UCjyShWx
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AllayMC&repo=Allay)](https://github.com/anuraghazra/github-readme-stats)
 
 #### PowerNukkitX/PowerNukkitX
 
