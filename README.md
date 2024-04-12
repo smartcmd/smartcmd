@@ -63,11 +63,11 @@ Co-founder of PowerNukkitX:
 
 The next-generation Minecraft: Bedrock Edition server software
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AllayMC&repo=Allay)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AllayMC&repo=Allay)](https://github.com/AllayMC/Allay)
 
 #### PowerNukkitX/PowerNukkitX
 
 Make nukkit great again!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PowerNukkitX&repo=PowerNukkitX)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PowerNukkitX&repo=PowerNukkitX)](https://github.com/PowerNukkitX/PowerNukkitX)
 
