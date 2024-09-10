@@ -47,6 +47,8 @@ Github stats:
 <code><a href="https://genshin.mihoyo.com/"><img height="20" src="assets/img/genshin-impact.png" alt="genshin" /></a>&nbsp;Genshin Impact(China)</code>
 <code><a href="https://www.ea.com/games/battlefield"></a>&nbsp;Battlefield V</code>
 
+[![Malody Stats Card](https://malody-stat-card.bzpl.tech/card/default/781302)](http://m.mugzone.net/accounts/user/781302)
+
 #### 📝 ORGANIZATIONS
 
 Founder of AllayMC:
