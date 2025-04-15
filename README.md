@@ -11,6 +11,7 @@
 
 ✈️ Telegram: @daoge_cmd  
 📢 Telegram Channel: https://t.me/daoge_channel  
+📺 BiliBili: https://m.bilibili.com/space/443937918  
 📫 Email: lianyuanhao0@gmail.com  
 🔑 You can find my PGP public key [here](https://github.com/smartcmd/smartcmd/PUBLIC_KEY.pgp)  
 
