@@ -1,18 +1,18 @@
 # Hi, here is daoge 👋
 
-🌱 I'm an university student in shanghai
-❤️ I like coding, and doing minecraft related things <code><img height="20" src="assets/img/minecraft.net.ico" alt="mc" /></code>
-📷 Beginner photography enthusiasts
-🌏 My time zone is `🕗GMT/UTC+8`
-🌴 I love summer
-⭐ [My Personality Type](https://www.16personalities.com/profiles/infp-t/m/9kv4unlvx): INFP-T
+🌱 I'm an university student in shanghai  
+❤️ I like coding, and doing minecraft related things <code><img height="20" src="assets/img/minecraft.net.ico" alt="mc" /></code>  
+📷 Beginner photography enthusiasts  
+🌏 My time zone is `🕗GMT/UTC+8`  
+🌴 I love summer  
+⭐ [My Personality Type](https://www.16personalities.com/profiles/infp-t/m/9kv4unlvx): INFP-T  
 
 #### 💬 CONTACT
 
-✈️ Telegram: @daoge_cmd
-📢 Telegram Channel: https://t.me/daoge_channel
-📫 Email: lianyuanhao0@gmail.com
-🔑 You can find my PGP public key [here](https://github.com/smartcmd/smartcmd/PUBLIC_KEY.pgp) 
+✈️ Telegram: @daoge_cmd  
+📢 Telegram Channel: https://t.me/daoge_channel  
+📫 Email: lianyuanhao0@gmail.com  
+🔑 You can find my PGP public key [here](https://github.com/smartcmd/smartcmd/PUBLIC_KEY.pgp)  
 
 #### 💻 LANGUAGES
 
