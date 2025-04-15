@@ -49,22 +49,14 @@ Contributor of EndstoneMC: <code><a href="https://github.com/EndstoneMC"><img he
 
 #### 📂 PROJECTS
 
-**AllayMC/Allay**
-
-The next-generation Minecraft: Bedrock Edition server software aims to be reliable, fast and feature-rich 🌟.  
+**AllayMC/Allay**: The next-generation Minecraft: Bedrock Edition server software aims to be reliable, fast and feature-rich 🌟.  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AllayMC&repo=Allay)](https://github.com/AllayMC/Allay)
 
-**PowerNukkitX/PowerNukkitX**
-
-Feature-rich, highly customizable third-party server software for Minecraft: Bedrock Edition.  
+**PowerNukkitX/PowerNukkitX**: Feature-rich, highly customizable third-party server software for Minecraft: Bedrock Edition.  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PowerNukkitX&repo=PowerNukkitX)](https://github.com/PowerNukkitX/PowerNukkitX)
 
-**EndstoneMC/endstone**
-
-High-level Plugin API for Bedrock Dedicated Servers (BDS), in both Python and C++.  
+**EndstoneMC/endstone**: High-level Plugin API for Bedrock Dedicated Servers (BDS), in both Python and C++.  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EndstoneMC&repo=endstone)](https://github.com/EndstoneMC/endstone)
 
-**PolyhedralDev/Terra**
-
-Voxel world generation modding platform.  
+**PolyhedralDev/Terra**: Voxel world generation modding platform.  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PolyhedralDev&repo=Terra)](https://github.com/PolyhedralDev/Terra)
