@@ -41,10 +41,8 @@
 
 #### 📝 ORGANIZATIONS
 
-Founder of AllayMC: <code><a href="https://github.com/AllayMC"><img height="20" src="https://avatars.githubusercontent.com/u/127004695" alt="AllayMC" /></a>&nbsp;<a href="https://github.com/AllayMC">AllayMC</a></code>
-
-Co-founder of PowerNukkitX: <code><a href="https://github.com/PowerNukkitX"><img height="20" src="https://avatars.githubusercontent.com/u/99014792" alt="PowerNukkitX" /></a>&nbsp;<a href="https://github.com/PowerNukkitX">PowerNukkitX</a></code>
-
+Founder of AllayMC: <code><a href="https://github.com/AllayMC"><img height="20" src="https://avatars.githubusercontent.com/u/127004695" alt="AllayMC" /></a>&nbsp;<a href="https://github.com/AllayMC">AllayMC</a></code>  
+Co-founder of PowerNukkitX: <code><a href="https://github.com/PowerNukkitX"><img height="20" src="https://avatars.githubusercontent.com/u/99014792" alt="PowerNukkitX" /></a>&nbsp;<a href="https://github.com/PowerNukkitX">PowerNukkitX</a></code>  
 Contributor of EndstoneMC: <code><a href="https://github.com/EndstoneMC"><img height="20" src="https://avatars.githubusercontent.com/u/142812342" alt="endstone" /></a>&nbsp;<a href="https://github.com/EndstoneMC">endstone</a></code>
 
 #### 📂 PROJECTS
