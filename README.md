@@ -42,7 +42,6 @@
 #### 📝 ORGANIZATIONS
 
 Founder of AllayMC: <code><a href="https://github.com/AllayMC"><img height="20" src="https://avatars.githubusercontent.com/u/127004695" alt="AllayMC" /></a>&nbsp;<a href="https://github.com/AllayMC">AllayMC</a></code>  
-Co-founder of PowerNukkitX: <code><a href="https://github.com/PowerNukkitX"><img height="20" src="https://avatars.githubusercontent.com/u/99014792" alt="PowerNukkitX" /></a>&nbsp;<a href="https://github.com/PowerNukkitX">PowerNukkitX</a></code>  
 Contributor of EndstoneMC: <code><a href="https://github.com/EndstoneMC"><img height="20" src="https://avatars.githubusercontent.com/u/142812342" alt="EndstoneMC" /></a>&nbsp;<a href="https://github.com/EndstoneMC">Endstone</a></code>  
 Contributor of Terra: <code><a href="https://github.com/PolyhedralDev/Terra"><img height="20" src="https://avatars.githubusercontent.com/u/67664499" alt="Terra" /></a>&nbsp;<a href="https://github.com/PolyhedralDev">Terra</a></code>
 
@@ -51,10 +50,6 @@ Contributor of Terra: <code><a href="https://github.com/PolyhedralDev/Terra"><im
 **AllayMC/Allay**: The next-generation Minecraft: Bedrock Edition server software aims to be reliable, fast and feature-rich 🌟.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AllayMC&repo=Allay)](https://github.com/AllayMC/Allay)
-
-**PowerNukkitX/PowerNukkitX**: Feature-rich, highly customizable third-party server software for Minecraft: Bedrock Edition.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PowerNukkitX&repo=PowerNukkitX)](https://github.com/PowerNukkitX/PowerNukkitX)
 
 **EndstoneMC/endstone**: High-level Plugin API for Bedrock Dedicated Servers (BDS), in both Python and C++.
 
