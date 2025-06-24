@@ -9,6 +9,8 @@
 
 #### 💬 CONTACT
 
+✈️ Telegram: @daoge_cmd  
+🕹️ Discord: @daoge_cmd  
 📺 BiliBili: https://m.bilibili.com/space/443937918  
 📫 Email: lianyuanhao0@gmail.com  
 🔑 You can find my PGP public key [here](https://github.com/smartcmd/smartcmd/PUBLIC_KEY.pgp)  
