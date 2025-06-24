@@ -1,6 +1,6 @@
 # Hi, here is daoge 👋
 
-🌱 I'm an university student in Shanghai  
+🌱 I'm an university student in Shanghai, major in `Computer Science and Technology` currently  
 ❤️ I like coding, and doing minecraft related things <code><img height="20" src="assets/img/minecraft.net.ico" alt="mc" /></code>  
 📷 Beginner photography enthusiasts  
 🌏 My time zone is `🕗GMT/UTC+8`  
@@ -9,8 +9,6 @@
 
 #### 💬 CONTACT
 
-✈️ Telegram: @daoge_cmd  
-📢 Telegram Channel: https://t.me/daoge_channel  
 📺 BiliBili: https://m.bilibili.com/space/443937918  
 📫 Email: lianyuanhao0@gmail.com  
 🔑 You can find my PGP public key [here](https://github.com/smartcmd/smartcmd/PUBLIC_KEY.pgp)  
