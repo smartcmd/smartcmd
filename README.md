@@ -3,6 +3,7 @@
 🌱 I'm an university student in Shanghai, major in `Computer Science and Technology` currently  
 ❤️ I like coding, and doing minecraft related things <code><img height="20" src="assets/img/minecraft.net.ico" alt="mc" /></code>  
 📷 Beginner photography enthusiasts  
+📻 I am a HAM, and my call sign is `BI4ASY`  
 🌏 My time zone is `🕗GMT/UTC+8`  
 🌴 I love summer  
 ⭐ [My Personality Type](https://www.16personalities.com/profiles/infp-t/m/9kv4unlvx): INFP-T  
