@@ -48,14 +48,6 @@ Contributor of Terra: <code><a href="https://github.com/PolyhedralDev/Terra"><im
 
 #### 📂 PROJECTS
 
-**AllayMC/Allay**: The next-generation Minecraft: Bedrock Edition server software aims to be reliable, fast and feature-rich 🌟.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AllayMC&repo=Allay)](https://github.com/AllayMC/Allay)
-
-**EndstoneMC/endstone**: High-level Plugin API for Bedrock Dedicated Servers (BDS), in both Python and C++.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EndstoneMC&repo=endstone)](https://github.com/EndstoneMC/endstone)
-
-**PolyhedralDev/Terra**: Voxel world generation modding platform.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PolyhedralDev&repo=Terra)](https://github.com/PolyhedralDev/Terra)
+**AllayMC/Allay**: The next-generation Minecraft: Bedrock Edition server software aims to be reliable, fast and feature-rich 🌟.  
+**EndstoneMC/endstone**: High-level Plugin API for Bedrock Dedicated Servers (BDS), in both Python and C++.  
+**PolyhedralDev/Terra**: Voxel world generation modding platform.  
