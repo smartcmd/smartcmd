@@ -1,6 +1,6 @@
 # Hi, here is daoge 👋
 
-🌱 I'm an university student in Shanghai, major in `Computer Science and Technology` currently  
+🌱 I'm an university student, major in `Computer Science and Technology` currently  
 ❤️ I like coding, and doing minecraft related things <code><img height="20" src="assets/img/minecraft.net.ico" alt="mc" /></code>  
 📷 Beginner photography enthusiasts  
 📻 I am a HAM, and my call sign is `BI4ASY`  
@@ -12,7 +12,6 @@
 
 ✈️ Telegram: @daoge_cmd  
 🕹️ Discord: @daoge_cmd  
-📺 BiliBili: https://m.bilibili.com/space/443937918  
 📫 Email: lianyuanhao0@gmail.com  
 🔑 You can find my PGP public key [here](https://github.com/smartcmd/smartcmd/PUBLIC_KEY.pgp)  
 
